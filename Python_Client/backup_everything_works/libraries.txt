@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+visa
+instrumental-lib
+pyvisa
+requests
+voltcraft
+
+
+OES - optical emission spectroscopy
+metoda boltzmana do temp elektronów
