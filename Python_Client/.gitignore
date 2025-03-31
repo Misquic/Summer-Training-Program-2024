@@ -2,4 +2,5 @@ Data/*
 Data_kula/
 data_test/
 backup_everything_works/
+examples/
 *.png
